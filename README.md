@@ -26,9 +26,6 @@ After 15 mins, Execute the curl with verbose, you will see a new certificate wil
   - start the envoy proxy
 
 ## Reference
-
-https://www.envoyproxy.io/docs/envoy/v1.6.0/intro/arch_overview/hot_restart
-https://www.envoyproxy.io/docs/envoy/v1.6.0/operations/hot_restarter
 https://github.com/envoyproxy/envoy/tree/ab7ab69d7976acacc7269acfc516cfb1f5836564/examples/front-proxy 
 https://medium.com/grensesnittet/file-based-dynamic-configuration-of-routes-in-envoy-proxy-6234dae968d2
 https://www.katacoda.com/envoyproxy/scenarios/file-based-dynamic-routing-configuration
